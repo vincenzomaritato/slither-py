@@ -1,0 +1,40 @@
+[tool.poetry]
+name = "slither-py"
+version = "1.0.0"
+description = "A modern and stylish Snake game built with Python and Pygame, featuring a synthwave aesthetic."
+authors = ["vmaritato <v.maritato@icloud.com>"]
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/vmaritato/slither-py"
+repository = "https://github.com/vmaritato/slither-py"
+keywords = ["snake", "game", "pygame", "retro", "synthwave"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Environment :: MacOS X",
+    "Intended Audience :: End Users/Desktop",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Games/Entertainment :: Arcade",
+]
+packages = [{ include = "slither" }]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pygame = "^2.6.0"
+typer = {version = "^0.9.0", extras = ["rich"]}
+
+[tool.poetry.scripts]
+slither = "slither.__main__:app"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.0.0"
+black = "^24.4.2"
+isort = "^5.13.2"
+sphinx = "^7.3.7"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
