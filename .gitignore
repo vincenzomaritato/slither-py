@@ -66,8 +66,3 @@ $RECYCLE.BIN/
 # PyCharm
 .idea/
 *.iml
-
-# Fonts and assets (user-generated)
-assets/fonts/pixel_font.ttf
-assets/preview.gif
-assets/synthwave_snake.png
