@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vmaritato/slither-py/blob/main/LICENSE">
+  <a href="https://github.com/vmaritato/slither-py/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/vmaritato/slither-py?color=blue" alt="License">
   </a>
   <a href="https://pypi.org/project/slither-py/">
@@ -17,9 +17,6 @@
   </a>
   <a href="https://github.com/vmaritato/slither-py/stargazers">
     <img src="https://img.shields.io/github/stars/vmaritato/slither-py?style=social" alt="GitHub stars">
-  </a>
-  <a href="https://results.pre-commit.ci/latest/github/vmaritato/slither-py/main">
-    <img src="https://results.pre-commit.ci/badge/github/vmaritato/slither-py/main.svg" alt="pre-commit: enabled">
   </a>
   <img src="https://img.shields.io/badge/style-synthwave-ff00cc.svg?logo=python" alt="Synthwave Style">
 </p>
@@ -126,6 +123,4 @@ If you like this project, please consider starring it on GitHub and sharing it w
 
 <p align="center">
   <img src="assets/synthwave_snake.png" alt="Synthwave Snake Mascot" width="300"/>
-  <br>
-  <i>Custom synthwave mascot/logo — create your own and place it here!</i>
 </p>
