@@ -10,13 +10,13 @@
 
 <p align="center">
   <a href="https://github.com/vmaritato/slither-py/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/vmaritato/slither-py?color=blue" alt="License">
+    <img src="https://img.shields.io/github/license/vmaritato/slither-py" alt="License">
   </a>
   <a href="https://pypi.org/project/slither-py/">
-    <img src="https://img.shields.io/pypi/v/slither-py?color=orange" alt="PyPI">
+    <img src="https://img.shields.io/pypi/v/slither-py" alt="PyPI">
   </a>
   <a href="https://github.com/vmaritato/slither-py/stargazers">
-    <img src="https://img.shields.io/github/stars/vmaritato/slither-py?style=social" alt="GitHub stars">
+    <img src="https://img.shields.io/github/stars/vmaritato/slither-py" alt="GitHub stars">
   </a>
   <img src="https://img.shields.io/badge/style-synthwave-ff00cc.svg?logo=python" alt="Synthwave Style">
 </p>
